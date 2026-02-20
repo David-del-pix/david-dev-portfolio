@@ -89,12 +89,13 @@ Freelancer-client matching full-stack platform with order management and smart s
 
 ## 📬 Contact
 
-- 📧 Email: your-email@example.com
+- 📧 Email: mapangaladavid@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile
 - 🐙 GitHub: https://github.com/David-del-pix
 
 ---
 
 ## 📄 License
+
 
 This project is open-source and available under the MIT License.
